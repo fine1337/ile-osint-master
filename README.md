@@ -16,6 +16,9 @@
 Принятие важных диалоговых вопросов [Telegram](https://t.me/drenly)
 Активная контактная информация поддержки проекта [Actual](https://t.me/ragotn)
 
+# Example
+![Example For Use](images/image1.png)
+
 # EN [Instructions]
 
 1. **Download** [python](https://www.python.org/)
